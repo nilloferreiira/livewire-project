@@ -1,0 +1,3 @@
+<span>
+    {{ $quantity }}
+</span>

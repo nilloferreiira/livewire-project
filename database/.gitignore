@@ -1,0 +1,19 @@
+# Laravel padrão
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+.env
+.env.*.php
+.env.*.backup
+
+# Arquivos de log e cache
+/storage/logs
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/framework/testing/*
+/bootstrap/cache/*
+
+# Cache do Laravel Vapor
+/.vapor
